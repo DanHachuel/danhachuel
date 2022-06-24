@@ -1,5 +1,8 @@
 **DanHachuel/danhachuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<div align="center">
+    <img src="Foto_Github.png" alt="just a picture" width="98px"; height="98px"; style="border-radius: 30px";>
+    
 <h2><b>
     DAN PARIENTE HACHUEL: </p> </h2>
     Engenheiro de Dados e Técnico em Redes experimentado em tecnologias DevOps, virtualização de ambientes, front e back-end com javascript, Ruby e Python, marcação com 
