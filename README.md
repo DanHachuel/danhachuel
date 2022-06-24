@@ -2,11 +2,10 @@
     <img src="Foto_Github.png" alt="hello_world" width="220px"; height="220px"; style="border-radius: 40px";> 
     
 <h2><b>
-    DAN PARIENTE HACHUEL: </p> </h2></div>
-    Engenheiro de Dados e Técnico em Redes experimentado em tecnologias DevOps, virtualização de ambientes, front e back-end com javascript, Ruby e Python, marcação com 
-    Html, Css, ciclos Scrum, criação e manutenção de pipelines de Big Data e automatização de entregas, SQL/MySQL, Business Inteligence, Analytics, Virtuaização de 
-    Ambientes, tecnologias disruptivas, experiencia em Clouds AWS, GCP e  Azure, CI/CD, Kubernetes, Terraform, Jenkins e etc. </p> </p>
-    
+    DAN PARIENTE HACHUEL:  </h2></div> Engenheiro de Dados e Técnico em Redes experimentado em tecnologias DevOps, virtualização de ambientes, front e back-end com 
+   javascript, Ruby e Python, marcação com Html, Css, ciclos Scrum, criação e manutenção de pipelines de Big Data e automatização de entregas, SQL/MySQL, Business 
+   Inteligence, Analytics, Virtuaização de Ambientes, tecnologias disruptivas, experiencia em Clouds AWS, GCP e  Azure, CI/CD, Kubernetes, Terraform, Jenkins e etc. 
+   </p> </p>    
       
    :octocat:  <a href="https://www.linkedin.com/in/dan-hachuel"><button>Meu LinkedIn</button></a> 
 
