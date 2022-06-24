@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="Foto_Github.png" alt="hello_world" width="250px"; height="250px"; style="border-radius: 40px";> 
+    <img src="Foto_Github.png" alt="hello_world" width="220px"; height="220px"; style="border-radius: 40px";> 
     
 <h2><b>
     DAN PARIENTE HACHUEL: </p> </h2></div>
