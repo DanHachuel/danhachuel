@@ -6,12 +6,25 @@
    DAN PARIENTE HACHUEL:  </h2> Profissional de Dados/Redes experimentado em tecnologias DevOps, virtualização de ambientes, front e back-end com javascript, Ruby e   
    Python, marcação com Html, Css, Metodologia Scrum, criação e manutenção de pipelines e automatização de entregas, BDs SQL/MySQL, Business Inteligence, Analytics, 
    Virtuaização de Ambientes de rede, tecnologias disruptivas, experiencia em Clouds AWS, GCP e  Azure, CI/CD, Kubernetes, Terraform, Jenkins e etc. 
-   </b> </h2>  
-   
-  <br></br>
-   :octocat:  <a href="https://www.linkedin.com/in/dan-hachuel"><button>Meu LinkedIn</button></a>   
-   :email:   <a href = "mailto: dan.hachuel@gmail.com">Mensagem</a> <br></br> 
-    
+   </b> </h2>   
+  <br></br>    :octocat: 
+  
+<a target="_blank" href="https://www.linkedin.com/in/dan-hachuel/">
+  <img src="https://img.shields.io/badge/-dan-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="Linkedin Badge"/>
+</a>
+
+<a target="_blank" href="https://www.facebook.com/DannVIP/">
+<img src="https://img.shields.io/badge/dan-informational?style=for-the-badge&logo=Facebook&logoColor=white" alt="Linkedin Badge"/>
+</a>
+
+<a target="_blank" href="mailto: dan.hachuel@gmail.com"> 
+<img src="https://img.shields.io/badge/dan-informational?style=for-the-badge&logo=Email&logoColor=white" alt="Linkedin Badge"/>
+</a>
+ 
+<br></br>
+
+
+
 
 <div align="center">        
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"  width="40" height="40"/>
