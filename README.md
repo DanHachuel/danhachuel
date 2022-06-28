@@ -10,15 +10,15 @@
   <br></br>    :octocat: 
   
 <a target="_blank" href="https://www.linkedin.com/in/dan-hachuel/">
-  <img src="https://img.shields.io/badge/-dan-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="Linkedin Badge"/>
+  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="Linkedin Badge"/>
 </a>
 
 <a target="_blank" href="https://www.facebook.com/DannVIP/">
-<img src="https://img.shields.io/badge/dan-informational?style=for-the-badge&logo=Facebook&logoColor=white" alt="Linkedin Badge"/>
+<img src="https://img.shields.io/badge/Facebook-informational?style=for-the-badge&logo=Facebook&logoColor=white" alt="Linkedin Badge"/>
 </a>
 
 <a target="_blank" href="mailto: dan.hachuel@gmail.com"> 
-<img src="https://img.shields.io/badge/dan-informational?style=for-the-badge&logo=Email&logoColor=white" alt="Linkedin Badge"/>
+<img src="https://img.shields.io/badge/Email-informational?style=for-the-badge&logo=Email&logoColor=white" alt="Linkedin Badge"/>
 </a>
  
 <br></br>
