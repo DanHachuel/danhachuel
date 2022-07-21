@@ -15,7 +15,7 @@
   <a href="https://www.instagram.com/danhachuel"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>  
   <a href="https://www.facebook.com/DannVIP/"><img src="https://img.shields.io/badge/Facebook-informational?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
   <a href="https://twitter.com/danhachuel"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://steamcommunity.com/id/danhachuel"><img src="https://img.shields.io/badge/Steam-172B4D?style=for-the-badge&logo=Steam&logoColor=white"/></a>  
+  <a href="https://steamcommunity.com/id/dan.hachuel"><img src="https://img.shields.io/badge/Steam-172B4D?style=for-the-badge&logo=Steam&logoColor=white"/></a>  
   <a href="https://discord.com/users/Danhachuel#0440"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white"/></a>
   <a href="https://t.me/DanHachuel"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=Telegram&logoColor=white" /></a> 
   <a href="mailto: dan.hachuel@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>    
