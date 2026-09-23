@@ -3,9 +3,7 @@
 </div> 
     
 <h2><b>
-   Sobre min:  </h2> Profissional de Dados/Redes experimentado em tecnologias DevOps, virtualização de ambientes, front e back-end com C, C++, Javascript, Ruby e   
-   Python, marcação com Html, Css, Metodologia Scrum, criação e manutenção de pipelines e automatização de entregas, BDs SQL/MySQL, Business Inteligence, Analytics, 
-   Virtuaização de Ambientes de rede, tecnologias disruptivas, experiencia em Clouds AWS, GCP e  Azure, CI/CD, Kubernetes, Terraform, Jenkins e etc. 
+   Sobre min:  </h2> Product Manager/ Product Owner | Scrum Master | PSPO | PSM |. 
    </b> </h2>   :octocat:
   <br></br>       
   
